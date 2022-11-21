@@ -1,29 +1,25 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<style>
-	body
-	{
-		font-family: Times New Roman;
-	}
-	th
-	{
-		text-transform: capitalize;
-		border-bottom: solid;
-		width: 120px;
-	}
-
-	.tr1
-	{
-		background-color: rgb(255,240,240);
-	}
-	.tr1:hover,.tr2:hover
-	{
-		background-color: lightblue;
-	}
-	table
-	{
-		cursor: pointer;
-	}
-	 </style>
+	<title></title>
+	<style type="text/css">
+		tr:hover{
+			background-color: #55E6C1;
+		}
+		
+		.a{
+			text-transform: uppercase;
+			color: darkblue;
+			font-weight: bolder;
+		}
+		.a:hover
+		{
+			background-color: #FD7272;
+			
+		}
+		td{
+			width: 300px;
+			font-size: 25px;
+		}
+	</style>
 </head>
