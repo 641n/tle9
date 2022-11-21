@@ -28,7 +28,6 @@ But a whole lot more like me
 
 <img src="https://jhsportal.adnu.edu.ph/pluginfile.php/1/theme_remui/section_html/942325426/welcomebg.png" width="200">
 
-<!DOCTYPE html>
 <html>
 <head>
 	<title></title>
@@ -48,7 +47,7 @@ But a whole lot more like me
 			
 		}
 		td{
-			width: 300px;
+			width: 100px;
 			font-size: 25px;
 		}
 	</style>
