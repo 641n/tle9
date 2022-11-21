@@ -18,6 +18,16 @@ This is the list of **Webpages** of my *computer class* this school year.
 [`Facebook`](https://www.facebook.com/sirgain)
 [`Twitter`](https://www.twitter.com/sirgain)
 
+| Monday | Tuesday | Wednesday | Thursday | Friday |
+|--------|---------|-----------|----------|--------|
+| Coffee | Scrambled Eggs | Tocino | | Pizza |
+| | Talong | Milktea | Ice cream | |
+
+
+
+
+
+
 ![Ateneans](https://jhsportal.adnu.edu.ph/pluginfile.php/1/theme_remui/section_html/942325426/welcomebg.png)
 
 ![Golden Knight](golden-knights-logo-png.png)
