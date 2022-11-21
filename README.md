@@ -54,132 +54,132 @@ But a whole lot more like me
 <body>
   <table>
     <tr class="a">
-      <td width="25">CN</td> 
+      <td width="25px">CN</td> 
       <td>Group A</td> 
       <td>Group B</td>
     </tr>
     <tr>
-      <td width="25">1</td> 
+      <td>1</td> 
       <td>Aguilar, Gabriel Emmanuel</td> 
       <td>Almazar, Shulaika Althea</td>
     </tr>
     <tr>
-      <td width="25">2</td> 
+      <td>2</td> 
       <td>Ayala, Daniel Nicholaz</td> 
       <td>Bermundo, Ronin Shen</td>
     </tr>
     <tr>
-      <td width="25">3</td> 
+      <td>3</td> 
       <td>Barrosa, Fatima Zen T.</td> 
       <td>Besa, Xebastian Jed </td>
     </tr>
     <tr>
-      <td width="25">4</td> 
+      <td>4</td> 
       <td>Carido, Kiesha Miel</td> 
       <td>Biscocho, Angel Sophia</td>
     </tr>
     <tr>
-      <td width="25">5</td> 
+      <td>5</td> 
       <td>Deniña, Emma Rose E.</td> 
       <td>Cope, Anika Maurene</td>
     </tr>
     <tr>
-      <td width="25">6</td> 
+      <td>6</td> 
       <td>Gogola, Eljo Zion B.</td> 
       <td>De Guzman, Fiona KATE</td>
     </tr>
     <tr>
-      <td width="25">7</td> 
+      <td>7</td> 
       <td>Legaspi, Lean Kharlmarx T.</td> 
       <td>Deduque, JOHANN MANUEL</td>
     </tr>
     <tr>
-      <td width="25">8</td> 
+      <td>8</td> 
       <td>Magpantay, Jordan Christian V.</td> 
       <td>Dolanas, Kahia Adona</td>
     </tr>
     <tr>
-      <td width="25">9</td> 
+      <td>9</td> 
       <td>Malabed, Fredireck Gabriel C.</td> 
       <td>Eclarinal, Jaden Christianne</td>
     </tr>
     <tr>
-      <td width="25">10</td> 
+      <td>10</td> 
       <td>Manongsong, Janrei Vinze B.</td> 
       <td>Espiritu, Stephen Avery</td>
     </tr>
     <tr>
-      <td width="25">11</td> 
+      <td>11</td> 
       <td>Parde, Angelic Nell S.</td> 
       <td>Gapol, Zachary Philippe Fante</td>
     </tr>
     <tr>
-      <td width="25">12</td> 
+      <td>12</td> 
       <td>Prestado, Kiara Camille P.</td> 
       <td>Garcillanosa, Khrysia Rei</td>
     </tr>
     <tr>
-      <td width="25">13</td> 
+      <td>13</td> 
       <td>Ramos, Jan Rione C.</td> 
       <td>Haider, Wania Bismah</td>
     </tr>
     <tr>
-      <td width="25">14</td> 
+      <td>14</td> 
       <td>Rosas, Justin G.</td> 
       <td>Legarto, Dairo Nicolas</td>
     </tr>
     <tr>
-      <td width="25">15</td> 
+      <td>15</td> 
       <td>Sarmiento, James Francis A.</td> 
       <td>Mariano, Nathaniel Mathew</td>
     </tr>
     <tr>
-      <td width="25">16</td> 
+      <td>16</td> 
       <td>Singson, Juancarlos Yuri P.</td> 
       <td>Melchor, Reina Nhitz Sofia</td>
     </tr>
     <tr>
-      <td width="25">17</td> 
+      <td>17</td> 
       <td>Tacorda, Lindsay R.</td> 
       <td>Obumani, Don Antonio</td>
     </tr>
     <tr>
-      <td width="25">18</td> 
+      <td>18</td> 
       <td>Tanguihan, Althea M.</td> 
       <td>Prado, Samantha Franchezca</td>
     </tr>
     <tr>
-      <td width="25">19</td> 
+      <td>19</td> 
       <td>Tipono, Mary Jobellene G.</td> 
       <td>Razon, Reese Aliya</td>
     </tr>
     <tr>
-      <td width="25">20</td> 
+      <td>20</td> 
       <td>Turiano, Alchevy P.</td> 
       <td>Rosana, Kyle Daniel</td>
     </tr>
     <tr>
-      <td width="25">21</td> 
+      <td>21</td> 
       <td></td> 
       <td>Saguit, Dannah Sophia V.</td>
     </tr>
     <tr>
-      <td width="25">22</td> 
+      <td>22</td> 
       <td></td> 
       <td>San Andres, James Cymon</td>
     </tr>
     <tr>
-      <td width="25">23</td> 
+      <td>23</td> 
       <td></td> 
       <td>Sumayao, Keon</td>
     </tr>
     <tr>
-      <td width="25">24</td> 
+      <td>24</td> 
       <td></td> 
       <td>Verceluz, Carl Justin</td>
     </tr>
     <tr>
-      <td width="25">25</td> 
+      <td>25</td> 
       <td></td> 
       <td>Vergara, Reenmarcus</td>
     </tr>
