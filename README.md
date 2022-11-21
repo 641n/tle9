@@ -7,7 +7,7 @@ This is the list of **Webpages** of my *computer class* this school year.
 
 > Hi my name is Sir Gain, I am teaching my students to create Webpages in Github using the `Static Site Generator` Jekyll.
 
-1. First item
+1. First item 🎈
 2. Second item
 3. Third item
 
@@ -23,10 +23,20 @@ This is the list of **Webpages** of my *computer class* this school year.
 | Coffee | Scrambled Eggs | Tocino | | Pizza |
 | | Talong | Milktea | Ice cream | |
 
+```
+“I challenge you to make your life a masterpiece. 
+I challenge you to join the ranks of those people who live what they teach, 
+who walk their talk.” —Anthony Robbins
+```
 
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
 
+~~The world is flat.~~
 
-
+No Cap
+: No lie
 
 ![Ateneans](https://jhsportal.adnu.edu.ph/pluginfile.php/1/theme_remui/section_html/942325426/welcomebg.png)
 
