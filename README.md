@@ -1,6 +1,6 @@
 ## Welcome to TLE 9 AY 2022-2023
 ---
-1. First item
+1. First item 
 2. Second item
 3. Third item
 
@@ -8,7 +8,7 @@
 - Second item
 - Third item
 
-face
+face 😶
 : A person's countenance.
 
 ```
