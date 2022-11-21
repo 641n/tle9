@@ -129,39 +129,35 @@ But a whole lot more like me
     <tr>
       <td>19</td> 
       <td>Tipono, Mary Jobellene G.</td> 
-      <td>Prestado, Kiara Camille</td>
+      <td>Razon, Reese Aliya</td>
     </tr>
     <tr>
       <td>20</td> 
       <td>Turiano, Alchevy P.</td> 
-      <td>Razon, Reese Aliya</td>
+      <td>Rosana, Kyle Daniel</td>
     </tr>
     <tr>
       <td>21</td> 
       <td>Group A</td> 
-      <td>Rosana, Kyle Daniel</td>
+      <td>Saguit, Dannah Sophia V.</td>
     </tr>
     <tr>
       <td>22</td> 
       <td>Group A</td> 
-      <td>Saguit, Dannah Sophia V.</td>
+      <td>San Andres, James Cymon</td>
     </tr>
     <tr>
       <td>23</td> 
       <td>Group A</td> 
-      <td>San Andres, James Cymon</td>
+      <td>Sumayao, Keon</td>
     </tr>
     <tr>
       <td>24</td> 
       <td>Group A</td> 
-      <td>Sumayao, Keon</td>
+      <td>Verceluz, Carl Justin</td>
     </tr>
     <tr>
       <td>25</td> 
-      <td>Group A</td> 
-      <td>Verceluz, Carl Justin</td>
-    <tr>
-      <td>26</td> 
       <td>Group A</td> 
       <td>Vergara, Reenmarcus</td>
     </tr>
