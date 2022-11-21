@@ -1,8 +1,28 @@
-table
-{
-  border-collapse: separate;
-}
+<!DOCTYPE html>
+<html>
+<head>
+	<style>
+	body
+	{
+		font-family: Times New Roman;
+	}
+	th
+	{
+		text-transform: capitalize;
+		border-bottom: solid;
+		width: 120px;
+	}
 
-tr
-{
-  border: 1px solid white;
+	.tr1
+	{
+		background-color: rgb(255,240,240);
+	}
+	.tr1:hover,.tr2:hover
+	{
+		background-color: lightblue;
+	}
+	table
+	{
+		cursor: pointer;
+	}
+	 </style>
