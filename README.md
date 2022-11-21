@@ -31,83 +31,135 @@ But a whole lot more like me
 <html>
 <body>
   <table>
-    <tr>
-      <th>CN</th> <th>Group A</th> <th>Group B</th>
+    <tr class="a">
+      <td>CN</td> 
+      <td>Group A</td> 
+      <td>Group B</td>
     </tr>
     <tr>
-      <th>1</th> <th>Aguilar, Gabriel Emmanuel S.</th> <th>Group B</th>
+      <td>1</td> 
+      <td>Aguilar, Gabriel Emmanuel S.</td> 
+      <td>Group B</td>
     </tr>
     <tr>
-      <th>2</th> <th>Group A</th> <th>Group B</th>
+      <td>2</td> 
+      <td>Group A</td> 
+      <td>Group B</td>
     </tr>
     <tr>
-      <th>3</th> <th>Barrosa, Fatima Zen T.</th> <th>Group B</th>
+      <td>3</td> 
+      <td>Barrosa, Fatima Zen T.</td> 
+      <td>Group B</td>
     </tr>
     <tr>
-      <th>4</th> <th>Group A</th> <th>Group B</th>
+      <td>4</td> 
+      <td>Group A</td> 
+      <td>Group B</td>
     </tr>
     <tr>
-      <th>5</th> <th>Deniña, Emma Rose E.</th> <th>Group B</th>
+      <td>5</td> 
+      <td>Deniña, Emma Rose E.</td> 
+      <td>Group B</td>
     </tr>
     <tr>
-      <th>6</th> <th>Gogola, Eljo Zion B.</th> <th>Group B</th>
+      <td>6</td> 
+      <td>Gogola, Eljo Zion B.</td> 
+      <td>Group B</td>
     </tr>
     <tr>
-      <th>7</th> <th>Legaspi, Lean Kharlmarx T.</th> <th>Group B</th>
+      <td>7</td> 
+      <td>Legaspi, Lean Kharlmarx T.</td> 
+      <td>Group B</td>
     </tr>
     <tr>
-      <th>8</th> <th>Magpantay, Jordan Christian V.</th> <th>Group B</th>
+      <td>8</td> 
+      <td>Magpantay, Jordan Christian V.</td> 
+      <td>Group B</td>
     </tr>
     <tr>
-      <th>9</th> <th>Malabed, Fredireck Gabriel C.</th> <th>Group B</th>
+      <td>9</td> 
+      <td>Malabed, Fredireck Gabriel C.</td> 
+      <td>Group B</td>
     </tr>
     <tr>
-      <th>10</th> <th>Manongsong, Janrei Vinze B.</th> <th>Group B</th>
+      <td>10</td> 
+      <td>Manongsong, Janrei Vinze B.</td> 
+      <td>Group B</td>
     </tr>
     <tr>
-      <th>11</th> <th>Parde, Angelic Nell S.</th> <th>Group B</th>
+      <td>11</td> 
+      <td>Parde, Angelic Nell S.</td> 
+      <td>Group B</td>
     </tr>
     <tr>
-      <th>12</th> <th>Prestado, Kiara Camille P.</th> <th>Group B</th>
+      <td>12</td> 
+      <td>Prestado, Kiara Camille P.</td> 
+      <td>Group B</td>
     </tr>
     <tr>
-      <th>13</th> <th>Ramos, Jan Rione C.</th> <th>Group B</th>
+      <td>13</td> 
+      <td>Ramos, Jan Rione C.</td> 
+      <td>Group B</td>
     </tr>
     <tr>
-      <th>14</th> <th>Rosas, Justin G.</th> <th>Group B</th>
+      <td>14</td> 
+      <td>Rosas, Justin G.</td> 
+      <td>Group B</td>
     </tr>
     <tr>
-      <th>15</th> <th>Sarmiento, James Francis A.</th> <th>Group B</th>
+      <td>15</td> 
+      <td>Sarmiento, James Francis A.</td> 
+      <td>Group B</td>
     </tr>
     <tr>
-      <th>16</th> <th>Singson, Juancarlos Yuri P.</th> <th>Group B</th>
+      <td>16</td> 
+      <td>Singson, Juancarlos Yuri P.</td> 
+      <td>Group B</td>
     </tr>
     <tr>
-      <th>17</th> <th>Tacorda, Lindsay R.</th> <th>Group B</th>
+      <td>17</td> 
+      <td>Tacorda, Lindsay R.</td> 
+      <td>Group B</td>
     </tr>
     <tr>
-      <th>18</th> <th>Tanguihan, Althea M.</th> <th>Group B</th>
+      <td>18</td> 
+      <td>Tanguihan, Althea M.</td> 
+      <td>Group B</td>
     </tr>
     <tr>
-      <th>19</th> <th>Tipono, Mary Jobellene G.</th> <th>Group B</th>
+      <td>19</td> 
+      <td>Tipono, Mary Jobellene G.</td> 
+      <td>Group B</td>
     </tr>
     <tr>
-      <th>20</th> <th>Turiano, Alchevy P.</th> <th>Group B</th>
+      <td>20</td> 
+      <td>Turiano, Alchevy P.</td> 
+      <td>Group B</td>
     </tr>
     <tr>
-      <th>21</th> <th>Group A</th> <th>Group B</th>
+      <td>21</td> 
+      <td>Group A</td> 
+      <td>Group B</td>
     </tr>
     <tr>
-      <th>22</th> <th>Group A</th> <th>Group B</th>
+      <td>22</td> 
+      <td>Group A</td> 
+      <td>Group B</td>
     </tr>
     <tr>
-      <th>23</th> <th>Group A</th> <th>Group B</th>
+      <td>23</td> 
+      <td>Group A</td> 
+      <td>Group B</td>
     </tr>
     <tr>
-      <th>24</th> <th>Group A</th> <th>Group B</th>
+      <td>24</td> 
+      <td>Group A</td> 
+      <td>Group B</td>
     </tr>
     <tr>
-      <th>25</th> <th>Group A</th> <th>Group B</th>
+      <td>25</td> 
+      <td>Group A</td> 
+      <td>Group B</td>
     </tr>
   </table>
 </body>
