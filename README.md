@@ -27,3 +27,9 @@ But a whole lot more like me
 [`Twitter`](https://www.twitter.com/sirgain)
 
 <img src="https://jhsportal.adnu.edu.ph/pluginfile.php/1/theme_remui/section_html/942325426/welcomebg.png" width="200">
+
+<html>
+<body>
+  <table>
+    <tr>
+      <th>CN</th> <th></th>
