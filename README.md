@@ -54,7 +54,7 @@ But a whole lot more like me
 <body>
   <table>
     <tr class="a">
-      <td width="25px">CN</td> 
+      <td>CN</td> 
       <td>Group A</td> 
       <td>Group B</td>
     </tr>
