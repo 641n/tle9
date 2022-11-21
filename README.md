@@ -47,8 +47,8 @@ But a whole lot more like me
 			
 		}
 		td{
-			width: 50px;
-			font-size: 10px;
+			width: 100px;
+			font-size: 15px;
 		}
 	</style>
 </head>
