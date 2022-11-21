@@ -28,7 +28,31 @@ But a whole lot more like me
 
 <img src="https://jhsportal.adnu.edu.ph/pluginfile.php/1/theme_remui/section_html/942325426/welcomebg.png" width="200">
 
+<!DOCTYPE html>
 <html>
+<head>
+	<title></title>
+	<style type="text/css">
+		tr:hover{
+			background-color: #55E6C1;
+		}
+		
+		.a{
+			text-transform: uppercase;
+			color: darkblue;
+			font-weight: bolder;
+		}
+		.a:hover
+		{
+			background-color: #FD7272;
+			
+		}
+		td{
+			width: 300px;
+			font-size: 25px;
+		}
+	</style>
+</head>
 <body>
   <table>
     <tr class="a">
