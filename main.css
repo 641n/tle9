@@ -5,7 +5,4 @@ table
 
 tr
 {
-  border: 1px solid #f2f2f2;
-}
-tr { display: block; float: left; }
-th, td { display: block; }
+  border: 1px solid white;
