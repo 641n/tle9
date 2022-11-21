@@ -58,3 +58,7 @@ But a whole lot more like me
       <th>23</th> <th>Group A</th> <th>Group B</th>
       <th>24</th> <th>Group A</th> <th>Group B</th>
       <th>25</th> <th>Group A</th> <th>Group B</th>
+    </tr>
+  </table>
+</body>
+</html>
