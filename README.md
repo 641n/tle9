@@ -47,7 +47,7 @@ But a whole lot more like me
 			
 		}
 		td{
-			width: 100px;
+			width: 50px;
 			font-size: 25px;
 		}
 	</style>
