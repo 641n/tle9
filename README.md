@@ -161,27 +161,27 @@ But a whole lot more like me
     </tr>
     <tr>
       <td>21</td> 
-      <td>Group A</td> 
+      <td></td> 
       <td>Saguit, Dannah Sophia V.</td>
     </tr>
     <tr>
       <td>22</td> 
-      <td>Group A</td> 
+      <td></td> 
       <td>San Andres, James Cymon</td>
     </tr>
     <tr>
       <td>23</td> 
-      <td>Group A</td> 
+      <td></td> 
       <td>Sumayao, Keon</td>
     </tr>
     <tr>
       <td>24</td> 
-      <td>Group A</td> 
+      <td></td> 
       <td>Verceluz, Carl Justin</td>
     </tr>
     <tr>
       <td>25</td> 
-      <td>Group A</td> 
+      <td></td> 
       <td>Vergara, Reenmarcus</td>
     </tr>
   </table>
