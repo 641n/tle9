@@ -2,7 +2,7 @@
 
 ![Front Picture](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Penafrancia_Shrine%2C_Naga_City.jpg/330px-Penafrancia_Shrine%2C_Naga_City.jpg "Logo")
 
-Our Lady of Penafrancia Facade
+*Our Lady of Penafrancia Facade*
 
 Our Lady of Peñafrancia Shrine is a Roman Catholic church in the Philippines, located in Naga City. It is under the jurisdiction of the Archdiocese of Caceres. The church was formerly the home of the image of Our Lady of Peñafrancia, before the Peñafrancia Basilica was constructed. Our Lady of Peñafrancia is one of East Asia's greatest sites of Christian pilgrimage.
 
@@ -10,13 +10,13 @@ The parish church is also the location of the Plaza Miguel Robles de Covarrubias
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2vcnN4rPsM4?si=KIhOkItm-cZMQt8o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-History of the Lady of Penafrancia
+*History of the Lady of Penafrancia*
 
-### 🏠 Naga City, Philippines
-Address
+### 🏠 Peñafrancia Ave., PeÑafrancia, Naga City, Camarines Sur, Philippines
+&nbsp; &nbsp; &nbsp; &nbsp; Address
 
 ### ☎️ 0946 333 2500
-Mobile
+&nbsp; &nbsp; &nbsp; &nbsp; Mobile
 
 ### 📧 olpparish310@gmail.com
-Email
+&nbsp; &nbsp; &nbsp; &nbsp; Email
