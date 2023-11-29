@@ -1,6 +1,6 @@
 # Our Lady of Peñafrancia Church
 
-![Front Picture](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Penafrancia_Shrine%2C_Naga_City.jpg/330px-Penafrancia_Shrine%2C_Naga_City.jpg "Logo")
+![](https://1.bp.blogspot.com/-IdsvMzVwpRI/T84TdDzLGGI/AAAAAAAADqc/QOD44MxBGh8/s1600/IMG_7888.JPG "logo")
 
 *Our Lady of Peñafrancia Facade*
 
