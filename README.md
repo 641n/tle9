@@ -2,7 +2,7 @@
 
 ![Front Picture](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Penafrancia_Shrine%2C_Naga_City.jpg/330px-Penafrancia_Shrine%2C_Naga_City.jpg "Logo")
 
-*Our Lady of Penafrancia Facade*
+*Our Lady of Peñafrancia Facade*
 
 Our Lady of Peñafrancia Shrine is a Roman Catholic church in the Philippines, located in Naga City. It is under the jurisdiction of the Archdiocese of Caceres. The church was formerly the home of the image of Our Lady of Peñafrancia, before the Peñafrancia Basilica was constructed. Our Lady of Peñafrancia is one of East Asia's greatest sites of Christian pilgrimage.
 
