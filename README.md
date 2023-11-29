@@ -12,11 +12,29 @@ The parish church is also the location of the Plaza Miguel Robles de Covarrubias
 
 *History of the Lady of Penafrancia*
 
-### 🏠 Peñafrancia Ave., PeÑafrancia, Naga City, Camarines Sur, Philippines
-&nbsp; &nbsp; &nbsp; &nbsp; Address
+## Schedule of Masses
 
-### ☎️ 0946 333 2500
-&nbsp; &nbsp; &nbsp; &nbsp; Mobile
+| Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
+|--------|--------|---------|-----------|----------|--------|----------|
+| 5:00am | 5:00am | 5:00am | 5:00am | 5:00am | 5:00am | 5:00am |
+| 6:00am | 6:00am | 6:00am | 6:00am | 6:00am | 6:00am | 6:00am |
+| | 7:00am | 7:00am | 7:00am | 7:00am | 7:00am | 7:00am |
+| 7:30am | | | | | | |
+| 9:00am | | | | | | |
+| 11:00am | | | | | | |
+| 5:00am | | | | | | |
+| | 5:30pm | 5:30pm | 5:30pm | 5:30pm | 5:30pm | 5:30pm |
+| 6:00pm | | | | | | |
+| 7:00pm | | | | | | |
 
-### 📧 olpparish310@gmail.com
-&nbsp; &nbsp; &nbsp; &nbsp; Email
+🏠 **Peñafrancia Ave., PeÑafrancia, Naga City, Camarines Sur, Philippines**
+
+&nbsp; &nbsp; &nbsp; &nbsp;Address
+
+☎️ **63 946 333 2500**
+
+&nbsp; &nbsp; &nbsp; &nbsp;Mobile
+
+📧 **olpparish310@gmail.com**
+
+&nbsp; &nbsp; &nbsp; &nbsp;Email
